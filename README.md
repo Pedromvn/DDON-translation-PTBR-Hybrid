@@ -4,6 +4,23 @@
 
 This is a data repository used to build translation patches for **Dragon's Dogma Online**. This project aims to create comprehensive translation patches to make the game accessible to players of different languages around the world. It is a community-driven project, and contributions are welcome!
 
+## 🇧🇷 Português do Brasil híbrido (PT-BR + EN)
+
+A versão híbrida 1.0.0 foi criada a partir de **duas traduções existentes do projeto comunitário DDON-translation**, ambas no commit `a4bdeec8`.
+
+- **Tradução em português do Brasil (PT-BR)** — base dos diálogos, descrições, missões e interface. [CSV PT-BR usado como base](https://github.com/Sapphiratelaemara/DDON-translation/blob/a4bdeec88c2f9045a4bbd73d3bb6882c09dac4cd/Portuguese%20%28Brazil%29/gmd.csv)
+- **Tradução em inglês (EN)** — fonte dos nomes selecionados de locais, NPCs, monstros, itens, equipamentos e habilidades. [CSV EN usado como referência](https://github.com/Sapphiratelaemara/DDON-translation/blob/a4bdeec88c2f9045a4bbd73d3bb6882c09dac4cd/gmd.csv)
+
+Créditos pelas duas traduções originais aos colaboradores do [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation).
+
+No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole o endereço abaixo e aguarde **Translation applied successfully**.
+
+```text
+https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/heads/main/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
+```
+
+SHA-256 da versão 1.0.0 — `57e548164d00f211eaccf87e4799f6332e61410343a469111909f0bd01b4fe4f`.
+
 ## 📋 Summary
 
 - [📥 How to Install Translations](#-how-to-install-translations)
@@ -141,6 +158,7 @@ Fixes and improvements by knowledgeable people would be very welcome!)
 |----------|--------|-----------|
 | 🇺🇸 English | 🔄 WIP | `gmd.csv` |
 | 🇧🇷 Portuguese (Brazil) | 🔄 WIP | `Portuguese (Brazil)/gmd.csv` |
+| 🇧🇷 Portuguese (Brazil) Hybrid | 1.0.0 | `Portuguese (Brazil) - Hybrid/gmd.csv` |
 | 🇪🇸 Spanish | 🔄 WIP | `Spanish/gmd.csv` |
 | 🇨🇳 Simplified Chinese | 🔄 WIP | `Simplified Chinese/` |
 | 🇹🇼 Traditional Chinese | 🔄 WIP | `Traditional Chinese/gmd.csv` |
