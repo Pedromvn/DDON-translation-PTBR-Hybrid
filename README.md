@@ -13,7 +13,7 @@ A versão híbrida combina **duas traduções existentes do projeto comunitário
 
 Créditos pelas duas traduções originais aos colaboradores do [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation).
 
-A **v2.0.0** revisa referências a nomes em inglês, traduz ou revisa 29.951 registros de texto com apoio das fontes em inglês e japonês e ajusta as quebras de linha em 5.832 registros. O CSV passou por validação estrutural e foi aplicado em jogo no LegacyDDON.
+A revisão ampliada traduz ou revisa 29.951 registros com apoio das fontes em inglês e japonês e ajusta as quebras de linha em 5.832 registros. A versão estável **v2.0.1**, aprovada em jogo, inclui a tradução de **Rumo à Arena!** e de 12 missões `[LGC]` do Quadro de Missões Especiais. Ela também recupera o prefixo `LV.` no HUD e melhora a leitura do tutorial **Obtendo Manobras de Combate** e das descrições das pedras de refino.
 
 No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole o endereço abaixo e aguarde **Translation applied successfully**.
 
@@ -21,11 +21,9 @@ No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e cliq
 https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/heads/main/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
 ```
 
-SHA-256 da v2.0.0 — `a6c30e98b683d6fddc2cbee0d0e69bd8fc071e80a48b05f0771cc59697837b63`.
+SHA-256 da v2.0.1 — `e3b93d1623770bbea74d5daa3c2c2ff181ea0d64cdbfc73f7c973924ec57b727`.
 
-**Pendências conhecidas da v2.0.0** — a missão **To the Arena!** e as missões `[LGC]` do Quadro de Missões Especiais ainda aparecem em inglês. O prefixo `LV.` do personagem pode sumir no HUD, e alguns textos de tutoriais e descrições de itens aparecem comprimidos na horizontal.
-
-A v1.0.0 continua disponível para instalação. SHA-256 — `57e548164d00f211eaccf87e4799f6332e61410343a469111909f0bd01b4fe4f`. [CSV da v1.0.0](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v1.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv)
+[CSV da v2.0.1](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v2.0.1/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv) · [CSV da v2.0.0](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v2.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv) · [CSV da v1.0.0](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v1.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv)
 
 ## 📋 Summary
 

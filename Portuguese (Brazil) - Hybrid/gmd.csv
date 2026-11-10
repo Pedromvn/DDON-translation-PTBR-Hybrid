@@ -8708,51 +8708,45 @@ Explosivos preparados por Goblin Bombers (LV. 25~)",ui\00_message\common\item_in
 0,,"メイン武器の品質を高める精錬材
 アイテム生産時に合成することで
 クレスト装着数が１（大成功時は２）増える
-※装備の品質変更時は大成功しない","Material de Refino para Aumentar a Qualidade da Arma Principal.
-Ao sintetizar durante a Criação de Itens,
-o número de slots de Montagem de Crista aumenta em 1
-(2 em um grande sucesso). ※ Não resulta em um grande sucesso ao alterar
-a qualidade do equipamento.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,860
+※装備の品質変更時は大成功しない","Melhora a qualidade da arma principal.
+Na criação, dá 1 encaixe de Crista
+(2 com Grande Sucesso).
+※ Ao mudar a qualidade, não há
+Grande Sucesso.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,860
 0,,"メイン武器の品質を高める良質の精錬材
 アイテム生産時に合成することで
-クレスト装着数が２（大成功時は３）増える","Material de refino de alta qualidade
-para melhorar a qualidade da arma principal.
-Quando sintetizado durante a produção de itens,
-aumenta o número de Cristas montadas em 2
-(3 no caso de um grande sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,861
+クレスト装着数が２（大成功時は３）増える","Refino de alta qualidade para armas
+principais. Na criação, dá 2 encaixes
+de Crista (3 com Grande Sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,861
 0,,"メイン武器の品質を高める最高級の精錬材
 大成功率が高くアイテム生産時に合成することで
-クレスト装着数が２（大成功時は３）増える","O material de refino da mais alta qualidade
-para melhorar a qualidade da arma principal.
-Tem uma alta taxa de sucesso e, quando sintetizado durante a produção de itens,
-aumenta o número de Cristas montadas em 2
-(3 no caso de um grande sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,862
+クレスト装着数が２（大成功時は３）増える","Refino superior para a arma principal.
+Alta chance de Grande Sucesso.
+Na criação, dá 2 encaixes de Crista
+(3 com Grande Sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,862
 0,,"防具の品質を高める精錬材
 アイテム生産時に合成することで
 クレスト装着数が１（大成功時は２）増える
-※装備の品質変更時は大成功しない","Material de Refino para Aumentar a Qualidade
-do Equipamento.
-Ao sintetizar durante a Criação de Itens,
-o número de slots de Montagem de Crista aumenta em 1
-(2 em um grande sucesso)
-※ Não resulta em um grande sucesso ao alterar
-a qualidade do equipamento.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,863
+※装備の品質変更時は大成功しない","Melhora a qualidade da armadura.
+Na criação, dá 1 encaixe de Crista
+(2 com Grande Sucesso).
+※ Ao mudar a qualidade, não há
+Grande Sucesso.",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,863
 0,,"頭/胴アーマー/腕/脚アーマー用
 防具の品質を高める上質の精錬材
 アイテム生産時に合成することで
-クレスト装着数が２（大成功時は３）増える","Material de refinamento de alta qualidade
-para cabeça, corpo, braços e armadura de pernas.
-Quando sintetizado durante a produção de itens,
-aumenta o número de Crest slots em 2
-(3 no caso de um grande sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,864
+クレスト装着数が２（大成功時は３）増える","Refino de alta qualidade para armaduras
+de cabeça, tronco, braços e pernas.
+Na criação, dá 2 encaixes de Crista
+(3 com Grande Sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,864
 0,,"頭/胴アーマー/腕/脚アーマー用
 防具の品質を高める最高級の精錬材
 大成功率が高くアイテム生産時に合成することで
-クレスト装着数が２（大成功時は３）増える","O material de refinamento da mais alta qualidade
-para cabeça, corpo, braços e armadura de pernas.
-Tem uma alta taxa de sucesso e, quando sintetizado durante a produção de itens,
-aumenta o número de Crest slots em 2
-(3 no caso de um grande sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,865
+クレスト装着数が２（大成功時は３）増える","Refino superior para armaduras de
+cabeça, tronco, braços e pernas.
+Alta chance de Grande Sucesso.
+Na criação, dá 2 encaixes de Crista
+(3 com Grande Sucesso).",ui\00_message\common\item_info.gmd,\ui\item_info.arc,item_info.arc,865
 0,,"クラフトで使用する事で、一定グレード以上の
 装備品カラーを「赤」に変更できる
 （一部装備はカラー変更不可です）","Ao usar a Criação, você pode mudar a cor
@@ -231220,7 +231214,7 @@ mas posso confiar nisso...
 
 Será que talvez seja hora de considerar a aposentadoria?",ui\00_message\quest_info\q20005006_00.gmd,\quest\q20005006.arc,q20005006.arc,3,,QUEST_TEXT_TYPE_FIND_INFO_DETAIL
 4,q20005006_00_806,遭遇した敵を討伐する,Derrote o inimigo encontrado,ui\00_message\quest_info\q20005006_00.gmd,\quest\q20005006.arc,q20005006.arc,4,,QUEST_TEXT_TYPE_PURPOSE
-0,q20005010_00_289,騎士団の仇敵,The Knights' Bitter Enemy,ui\00_message\quest_info\q20005010_00.gmd,\quest\q20005010.arc,q20005010.arc,0,,QUEST_TEXT_TYPE_NAME
+0,q20005010_00_289,騎士団の仇敵,O Inimigo Jurado dos Cavaleiros,ui\00_message\quest_info\q20005010_00.gmd,\quest\q20005010.arc,q20005010.arc,0,,QUEST_TEXT_TYPE_NAME
 1,q20005010_00_289,遭遇した敵を討伐する,Derrote o inimigo encontrado,ui\00_message\quest_info\q20005010_00.gmd,\quest\q20005010.arc,q20005010.arc,1,,QUEST_TEXT_TYPE_ORDER
 2,q20005010_00_289,"<NAME AREA>は
 ここ数日異様な気配に満ちているらしい","<NAME AREA> 
@@ -231237,7 +231231,7 @@ pelo roubo das vidas dos meus camaradas.
 Juro sobre esta lâmina, resolverei isso. 
 Prepare-se!",ui\00_message\quest_info\q20005010_00.gmd,\quest\q20005010.arc,q20005010.arc,3,,QUEST_TEXT_TYPE_FIND_INFO_DETAIL
 4,q20005010_00_806,遭遇した敵を討伐する,Derrote o inimigo encontrado,ui\00_message\quest_info\q20005010_00.gmd,\quest\q20005010.arc,q20005010.arc,4,,QUEST_TEXT_TYPE_PURPOSE
-0,q20005011_00_290,人喰い鬼、現る！,A Man-Eating Ogre Appears!,ui\00_message\quest_info\q20005011_00.gmd,\quest\q20005011.arc,q20005011.arc,0,,QUEST_TEXT_TYPE_NAME
+0,q20005011_00_290,人喰い鬼、現る！,Surge um Ogre Devorador de Gente!,ui\00_message\quest_info\q20005011_00.gmd,\quest\q20005011.arc,q20005011.arc,0,,QUEST_TEXT_TYPE_NAME
 1,q20005011_00_290,"<COL ffdc78>【 敵出現：夜 】</COL>
 遭遇した敵を討伐する","<COL ffdc78>(Inimigos aparecem à noite)</COL>
 Derrote os inimigos encontrados",ui\00_message\quest_info\q20005011_00.gmd,\quest\q20005011.arc,q20005011.arc,1,,QUEST_TEXT_TYPE_ORDER
@@ -273743,77 +273737,68 @@ desligá-lo.</COL>",ui\00_message\tutorial_guide\steps\tutorial_guide_step100.gm
 <COL ffdc78>《ジョブポイント》</COL>が得られます
 ジョブポイントを使うことで、レベルに応じた
 新たな戦技<COL ffdc78>《スキル》</COL>や<COL ffdc78>《アビリティ》</COL>
-を身につけることができます","Ao ganhar experiência em sua profissão, você pode subir de nível
-e ganhar <COL ffdc78>Pontos de Profissão </COL>(JP).
-Você pode usar Pontos de Profissão para adquirir novas <COL
-ffdc78>habilidades</COL> e <COL
-ffdc78>abilidades</COL> correspondentes ao seu
-nível.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,0
+を身につけることができます","Ganhe experiência na sua vocação
+e suba de nível para receber
+<COL ffdc78>Pontos de Vocação</COL> (PJ).
+Use esses pontos para aprender novas
+<COL ffdc78>habilidades</COL> e <COL ffdc78>amplificações</COL>
+disponíveis para o seu nível.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,0
 1,TUTORIAL_STEP_55,"新たなスキルやアビリティは、
 神殿のアーチボルトや各拠点の<COL ffdc78>《戦技補佐》</COL>に
 相談し、ジョブポイントを支払って
 習得・装備しましょう
 レベルアップした時は、
-新しく使える技がないか見に行くといいでしょう","Novas habilidades e técnicas podem ser aprendidas e
-equipadas consultando ""Archibald"" no
-templo e no <COL ffdc78>Arts Support</COL> em
-cada Portcrystal, pagando Pontos de Cargo.
-Ao subir de nível, seria uma boa ideia ir
-e verificar se há novas técnicas que você
-possa usar.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,1
+新しく使える技がないか見に行くといいでしょう","Fale com ""Archibald"" no templo ou com
+o <COL ffdc78>Suporte de Artes</COL> em cada base.
+Use Pontos de Vocação para aprender
+e equipar habilidades e amplificações.
+Ao subir de nível, volte para conferir
+as novas opções.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,1
 5,TUTORIAL_STEP_215,"今のジョブが不向きだなと感じた場合も
 アーチボルトに相談することで、
 他のジョブにすぐに<COL ffdc78>《転職》</COL>できます
-自分に合った戦闘スタイルを探しましょう","Se você sentir que seu atual trabalho não é adequado,
- você pode consultar ""Archibald"" e imediatamente mudar
- para outro trabalho através de um <COL ffdc78>Mudança
-de Vocaçāo</COL>.
- Vamos encontrar um estilo de combate que se adapte a você.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,5
+自分に合った戦闘スタイルを探しましょう","Se a vocação atual não combinar com
+você, fale com ""Archibald"" e use
+<COL ffdc78>Mudança de Vocação</COL> para trocá-la.
+Experimente um estilo de combate
+que funcione melhor para você.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,5
 2,TUTORIAL_STEP_397,"獲得可能なスキルやアビリティは<COL ffdc78>【ＧＥＴ】</COL>と
 いう緑色のアイコンが表示されます
 獲得したいスキルを選択し、下に表示された
 ジョブポイントを支払いましょう
 <COL ffdc78>獲得したスキルは、スキルアイコンを選択し
 右側のボタンに応じた《カスタムスキルセット枠》
-に割り振ることで、戦闘時使えるようになります</COL>","Você pode obter habilidades e capacidades selecionando
-o ícone verde rotulado <COL ffdc78>【GET】</COL>
-exibido.
-Escolha a habilidade que deseja adquirir e pague a
-Pontos de Cargo mostrados abaixo.
-<COL ffdc78>Assim que adquirir uma habilidade, você
-pode atribuí-la ao quadro ""Custom Skill Set"" à
-direita selecionando o ícone da habilidade e
-usando o botão correspondente. Isso permitirá
-que você use a habilidade em combate.</COL>",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,2
+に割り振ることで、戦闘時使えるようになります</COL>","O ícone verde <COL ffdc78>【GET】</COL> indica o que
+você já pode aprender.
+Selecione a opção e pague os Pontos
+de Vocação indicados abaixo.
+<COL ffdc78>Para usar a habilidade em combate,
+selecione o ícone e use o botão
+da posição desejada na paleta.</COL>",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,2
 3,TUTORIAL_STEP_398,"獲得したアビリティは、それぞれに
 必要な<COL ffdc78>《アビリティコスト》</COL>が定められています
 <COL ffdc78>コスト上限以内であれば、自由な組み合わせで
 ジョブに関わらずアビリティを付けられます</COL>
 スキルとアビリティ次第で戦い方は
-大きく変わるため、ぜひ試してみてください","Os <COL ffdc78>aumentos</COL> adquiridos cada um tem
-um custo específico <COL ffdc78>de habilidade</COL>
-requerido.
-Desde que esteja dentro do limite de custo, você pode
-usar livremente os aumentos, independentemente da profissão.
-A forma como você combate pode variar muito dependendo de
-suas habilidades e aumentos, então dê-lhes um
-tentativa.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,3
+大きく変わるため、ぜひ試してみてください","Cada <COL ffdc78>amplificação</COL> tem um
+<COL ffdc78>custo de amplificação</COL>.
+Você pode combinar amplificações de
+qualquer vocação dentro desse limite.
+Experimente combinações diferentes
+para variar seu estilo de combate.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,3
 4,TUTORIAL_STEP_399,"また、一度獲得したスキルやアビリティは
 <COL ffdc78>【ＬＶ　ＵＰ】</COL>を選択しジョブポイントを
 注ぐことでさらなる強化が可能です
 スキルによっては威力上昇、スキの減少や
 モーション変化が起こります
 アビリティの場合も効果が上昇するため
-戦技のレベルアップも活用しましょう","Além disso, ao selecionar <COL ffdc78>[LV
-UP]</COL> e investir Pontos de Cargo nela, é
-possível fortalecer ainda mais as habilidades e
-técnicas que já foram adquiridas.
-Dependendo da habilidade, pode haver um aumento
-na potência, uma redução no custo ou uma mudança no
-movimento.
-Para habilidades também, os efeitos melhorarão,
-então vamos aproveitar o aumento de nossas técnicas de combate.
-",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,4
+戦技のレベルアップも活用しましょう","Selecione <COL ffdc78>[SUBIR NV.]</COL> e use Pontos
+de Vocação para aprimorar habilidades
+e amplificações que já aprendeu.
+Uma habilidade pode ficar mais forte,
+deixar você menos exposto ou mudar
+seus movimentos. Os efeitos das
+amplificações também melhoram.",ui\00_message\tutorial_guide\steps\tutorial_guide_step102.gmd,\tguide\tutorial_guide_102.arc,tutorial_guide_102.arc,4
 3,TUTORIAL_STEP_30,"エクストリームミッションは、
 《エントリーボード》から参加申請可能です
 窓口のNPCに話しかけ、
@@ -281332,7 +281317,7 @@ Vamos usá-lo para confirmar as informações do local.",ui\00_message\ui\AreaMa
 29,ARISEN_CARD_TEXT_KNOCKEDATK,気絶攻力,P Atordoamento,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,29
 11,ARISEN_CARD_TEXT_LGOAL,冒険目的,Propósito de Aventura,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,11
 65,ARISEN_CARD_TEXT_LOOKSVALUE,外見評価,Avaliação da Aparência,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,65
-10,ARISEN_CARD_TEXT_LV,LV.,Nv.,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,10
+10,ARISEN_CARD_TEXT_LV,LV.,LV.,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,10
 73,ARISEN_CARD_TEXT_MAGIC,魔力,Magia,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,73
 22,ARISEN_CARD_TEXT_MAGICALATK,魔法攻撃力,Magick Atq,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,22
 24,ARISEN_CARD_TEXT_MAGICALDEF,魔法防御力,Def. Mágica,ui\00_message\ui\ArisenCard.gmd,\ui\uGUIArisenCardPop.arc,uGUIArisenCardPop.arc,24
@@ -281479,8 +281464,8 @@ Vamos usá-lo para confirmar as informações do local.",ui\00_message\ui\AreaMa
 96,ARISEN_CARD_TEXT_LIKABILITY,プレゼントした数,Número de Presentes,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,96
 65,ARISEN_CARD_TEXT_LOOKSVALUE,外見平均評価,Avaliação Média de Aparência,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,65
 65,ARISEN_CARD_TEXT_LOOKSVALUE,外見平均評価,Avaliação Média de Aparência,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,65
-10,ARISEN_CARD_TEXT_LV,LV.,Nv.,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,10
-10,ARISEN_CARD_TEXT_LV,LV.,Nv.,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,10
+10,ARISEN_CARD_TEXT_LV,LV.,LV.,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,10
+10,ARISEN_CARD_TEXT_LV,LV.,LV.,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,10
 73,ARISEN_CARD_TEXT_MAGIC,魔力,Magia,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,73
 73,ARISEN_CARD_TEXT_MAGIC,魔力,Magia,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIPawnThinkList.arc,uGUIPawnThinkList.arc,73
 22,ARISEN_CARD_TEXT_MAGICALATK,魔法攻撃力,Atq. Mágico,ui\00_message\ui\ArisenCard_win.gmd,\ui\uGUIArisenCard.arc,uGUIArisenCard.arc,22
@@ -284367,7 +284352,7 @@ um tempo.",ui\00_message\ui\Photo_Upload.gmd,\ui\uGUIPhotoUpload.arc,uGUIPhotoUp
 1,PlatformWord_PlatformName,PC,PC,ui\00_message\ui\PlatformWord_win.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1
 12,pop_detail_1stack_bag,アイテムバッグ1枠スタック数：,Núm Máximo de acúmulo no Inventário :,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,12
 8,pop_detail_G,G,G,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,8
-9,pop_detail_LV,LV.,Nv.,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,9
+9,pop_detail_LV,LV.,LV.,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,9
 23,pop_detail_add_status_1,Add Status,Adicionar Status,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,23
 24,pop_detail_add_status_2,Limit Bonus,Bônus de Limite,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,24
 26,pop_detail_add_status_5,Special Bonus,Bônus Especial,ui\00_message\ui\PopDetail01_res.gmd,\ui\uGUIPopDetail01.arc,uGUIPopDetail01.arc,26
@@ -285304,16 +285289,16 @@ itens(s) necessários em sua Bolsa de Itens.",ui\00_message\ui\Quest_res.gmd,\ui
 122,QUEST_MSG_HARD_QUEST_TITLE_EN,Quest Board,Quadro de Missoes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,122
 122,QUEST_MSG_HARD_QUEST_TITLE_EN,Quest Board,Quadro de Missoes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,122
 122,QUEST_MSG_HARD_QUEST_TITLE_EN,Quest Board,Quadro de Missoes,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,122
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,123
-123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Escolha uma ME's,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPackageQuestHistory.arc,uGUIPackageQuestHistory.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIPopRmcQuestInfo.arc,uGUIPopRmcQuestInfo.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestBoard.arc,uGUIQuestBoard.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestDelivery.arc,uGUIQuestDelivery.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestInfo.arc,uGUIQuestInfo.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestList.arc,uGUIQuestList.arc,123
+123,QUEST_MSG_HARD_QUEST_TITLE_JP,スペシャルクエストボード,Missões Especiais,ui\00_message\ui\Quest_res.gmd,\ui\uGUIQuestReward.arc,uGUIQuestReward.arc,123
 56,QUEST_MSG_HOLDING_PERIOD,開催期間,Duração do Evento,ui\00_message\ui\Quest_res.gmd,\ui\uGUIAreaMaster.arc,uGUIAreaMaster.arc,56
 56,QUEST_MSG_HOLDING_PERIOD,開催期間,Duração do Evento,ui\00_message\ui\Quest_res.gmd,\ui\uGUIMissionInfo.arc,uGUIMissionInfo.arc,56
 56,QUEST_MSG_HOLDING_PERIOD,開催期間,Duração do Evento,ui\00_message\ui\Quest_res.gmd,\ui\uGUINewspaper.arc,uGUINewspaper.arc,56
@@ -290896,8 +290881,8 @@ ffdc78>(Recompensas Aumentadas)</COL>",ui\00_message\ui\common_message.gmd,\ui\g
 128,common_unit_hb,HO,OE,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,128
 15,common_unit_jp,JP,PJ,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,15
 15,common_unit_jp,JP,PJ,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,15
-21,common_unit_lv,LV.,Nv.,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,21
-21,common_unit_lv,LV.,Nv.,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21
+21,common_unit_lv,LV.,LV.,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,21
+21,common_unit_lv,LV.,LV.,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,21
 109,common_unit_multiplication,×,×,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,109
 109,common_unit_multiplication,×,×,ui\00_message\ui\common_message.gmd,\ui\gui_cmn.arc,gui_cmn.arc,109
 144,common_unit_pap,対話回数,Contagem de Diálogos,ui\00_message\ui\common_message.gmd,\systemFlow.arc,systemFlow.arc,144
@@ -292553,7 +292538,7 @@ Quadro de Recrutamento de Grupos.",ui\00_message\ui\game_menu_win.gmd,\ui\gui_cm
 69,hud_commontext_spiritlancer_nospirit,No Spirits !,Sem Spirits!,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,69
 100,hud_dark_dungeon_p_0,ダンジョン内の異変を調査せよ,Investigue as anomalias na dungeon,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,100
 26,hud_disp_infinity,∞,∞,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,26
-1,hud_disp_level,LV.,Nv.,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1
+1,hud_disp_level,LV.,LV.,ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,1
 99,hud_dragon_skill_pl_0,"""%s""を発動できなかった――","""%s"" não pôde ser ativada",ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,99
 97,hud_dragon_skill_pl_1,"""%s""を発動した！","""%s"" foi ativada!",ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,97
 98,hud_dragon_skill_pl_2,"渾身の""%s""を発動した！","""%s"" foi totalmente ativada!",ui\00_message\ui\hud.gmd,\ui\gui_cmn.arc,gui_cmn.arc,98
@@ -293233,8 +293218,8 @@ as informações adicionais serão descartadas)",ui\00_message\ui\item_strage_bo
 8,JMMH_MSG_JOB_MASTER_STR_JP,ジョブマスター,Mestre de Vocação,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,8
 20,JMMH_MSG_JOB_STR,ジョブ,Vocação,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobExam.arc,uGUIJobExam.arc,20
 20,JMMH_MSG_JOB_STR,ジョブ,Vocação,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,20
-1,JMMH_MSG_LV_STR,LV.,Nv.,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobExam.arc,uGUIJobExam.arc,1
-1,JMMH_MSG_LV_STR,LV.,Nv.,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,1
+1,JMMH_MSG_LV_STR,LV.,LV.,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobExam.arc,uGUIJobExam.arc,1
+1,JMMH_MSG_LV_STR,LV.,LV.,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,1
 10,JMMH_MSG_LV_STR_2,Level,Nível,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobExam.arc,uGUIJobExam.arc,10
 10,JMMH_MSG_LV_STR_2,Level,Nível,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobMaster.arc,uGUIJobMaster.arc,10
 18,JMMH_MSG_MASTER_HB_STR,Training Note,Anotações de Treinamento,ui\00_message\ui\jmaster_hb.gmd,\ui\uGUIJobExam.arc,uGUIJobExam.arc,18
@@ -304427,3 +304412,79 @@ pressione o botão designado repetidamente.",ui\00_message\skill\custom_skill_co
 16,CUSTOM_SKILL_COMMAND_03_164,セットボタンで構え後、<KC SHOOT>で発射,"Enquanto segura o botão designado, <KC SHOOT> para atirar.",ui\00_message\skill\custom_skill_command_03.gmd,\skill\custom_skill_data_03.arc,custom_skill_data_03.arc,16
 17,CUSTOM_SKILL_COMMAND_03_165,セットボタンで構え後、<KC SHOOT>で発射,"Enquanto segura o botão designado, <KC SHOOT> para atirar.",ui\00_message\skill\custom_skill_command_03.gmd,\skill\custom_skill_data_03.arc,custom_skill_data_03.arc,17
 18,CUSTOM_SKILL_COMMAND_03_197,セットボタンで構え後、<KC SHOOT>で発射,"Enquanto segura o botão designado, <KC SHOOT> para atirar.",ui\00_message\skill\custom_skill_command_03.gmd,\skill\custom_skill_data_03.arc,custom_skill_data_03.arc,18
+0,,,[LGC] Um Brilho de Prata,ui\00_message\quest_info\q30200041_00.gmd,\quest\q30200041.arc,q30200041.arc,0
+0,,,"Só um Arisen pode atender a este pedido.
+Reúna <LQVA> <LQIM>.
+Você receberá uma recompensa pela ajuda.",ui\00_message\quest_info\q30200041_00.gmd,\quest\q30200041.arc,q30200041.arc,1
+0,,,[LGC] Matador de Reis,ui\00_message\quest_info\q30200042_00.gmd,\quest\q30200042.arc,q30200042.arc,0
+0,,,"Arisen, recebemos um pedido de extermínio.
+Pode derrotar <LQEM> por nós?
+Mostre a força que você tem.",ui\00_message\quest_info\q30200042_00.gmd,\quest\q30200042.arc,q30200042.arc,1
+0,,,[LGC] Elimine os Fracos,ui\00_message\quest_info\q30200043_00.gmd,\quest\q30200043.arc,q30200043.arc,0
+0,,,"Recebemos um pedido de caça.
+Derrote <LQVA> <LQEM> por nós.
+Mostre a força de um Arisen.",ui\00_message\quest_info\q30200043_00.gmd,\quest\q30200043.arc,q30200043.arc,1
+0,,,[LGC] Um Brinde a Você,ui\00_message\quest_info\q30200044_00.gmd,\quest\q30200044.arc,q30200044.arc,0
+0,,,"Precisamos de uma boa bebida para um brinde.
+Entregue <LQVA> <LQIM>.
+Você receberá uma recompensa pela ajuda.",ui\00_message\quest_info\q30200044_00.gmd,\quest\q30200044.arc,q30200044.arc,1
+0,,,[LGC] Uma Refeição Farta,ui\00_message\quest_info\q30200045_00.gmd,\quest\q30200045.arc,q30200045.arc,0
+0,,,"Uma boa refeição reanima os cansados.
+Entregue <LQVA> <LQIM> para o banquete.
+Você receberá o pagamento na entrega.",ui\00_message\quest_info\q30200045_00.gmd,\quest\q30200045.arc,q30200045.arc,1
+0,,,[LGC] Uma Refeição Leve,ui\00_message\quest_info\q30200046_00.gmd,\quest\q30200046.arc,q30200046.arc,0
+0,,,"Uma refeição leve fará bem aos cansados.
+Entregue <LQVA> <LQIM>.
+Sua gentileza será recompensada.",ui\00_message\quest_info\q30200046_00.gmd,\quest\q30200046.arc,q30200046.arc,1
+0,,,[LGC] Suas Poções Mais Fortes,ui\00_message\quest_info\q30200047_00.gmd,\quest\q30200047.arc,q30200047.arc,0
+0,,,"Buscamos elixires de eficácia comprovada.
+Entregue <LQVA> <LQIM>.
+Você receberá uma recompensa pela ajuda.",ui\00_message\quest_info\q30200047_00.gmd,\quest\q30200047.arc,q30200047.arc,1
+0,,,[LGC] Emergência na Mina,ui\00_message\quest_info\q30200048_00.gmd,\quest\q30200048.arc,q30200048.arc,0
+0,,,"Estamos com falta de minério refinado!
+Entregue <LQVA> <LQIM>.
+Quem ajudar será recompensado.",ui\00_message\quest_info\q30200048_00.gmd,\quest\q30200048.arc,q30200048.arc,1
+0,,,[LGC] A Trama se Complica,ui\00_message\quest_info\q30200049_00.gmd,\quest\q30200049.arc,q30200049.arc,0
+0,,,"Falta tecido de qualidade para os artesãos.
+Entregue <LQVA> <LQIM>.
+Uma recompensa espera por você.",ui\00_message\quest_info\q30200049_00.gmd,\quest\q30200049.arc,q30200049.arc,1
+0,,,[LGC] Para Continuar a Escrever,ui\00_message\quest_info\q30200050_00.gmd,\quest\q30200050.arc,q30200050.arc,0
+0,,,"Os atendentes precisam de pergaminhos.
+Entregue <LQVA> <LQIM>.
+Sua ajuda será recompensada.",ui\00_message\quest_info\q30200050_00.gmd,\quest\q30200050.arc,q30200050.arc,1
+0,,,[LGC] Nas Profundezas da Masmorra,ui\00_message\quest_info\q30200051_00.gmd,\quest\q30200051.arc,q30200051.arc,0
+0,,,"Avistaram <LQEM> no fundo da masmorra.
+Derrote a criatura e acabe com a ameaça.
+Quem vencer será recompensado.",ui\00_message\quest_info\q30200051_00.gmd,\quest\q30200051.arc,q30200051.arc,1
+0,,,[LGC] Relíquias Perdidas no Tempo,ui\00_message\quest_info\q30200052_00.gmd,\quest\q30200052.arc,q30200052.arc,0
+0,,,"Os atendentes buscam relíquias antigas.
+Entregue <LQVA> <LQIM>.
+Recupere os tesouros de uma era esquecida.",ui\00_message\quest_info\q30200052_00.gmd,\quest\q30200052.arc,q30200052.arc,1
+0,,,Rumo à Arena!,ui\00_message\quest_info\q61000012_00.gmd,\quest\q61000012.arc,q61000012.arc,0
+0,,,"Muitos Arisen buscaram glória na arena.
+Seus desafios premiam força e persistência.
+Forje sua primeira arma e entre na luta.",ui\00_message\quest_info\q61000012_00.gmd,\quest\q61000012.arc,q61000012.arc,1
+0,,,"Fale com ""Ophelia""",ui\00_message\quest_info\q61000012_00.gmd,\quest\q61000012.arc,q61000012.arc,2
+0,,,"Encontre ""Hancock""",ui\00_message\quest_info\q61000012_00.gmd,\quest\q61000012.arc,q61000012.arc,3
+0,,,"Conclua ""Legacy Arena"" no LV. 20",ui\00_message\quest_info\q61000012_00.gmd,\quest\q61000012.arc,q61000012.arc,4
+0,,,"Volte e fale com ""Hancock""",ui\00_message\quest_info\q61000012_00.gmd,\quest\q61000012.arc,q61000012.arc,5
+0,,,"A arena é um desafio para Arisen experientes.
+A cada rodada, novos inimigos e perigos.
+Os vencedores ganham ""Arena Coins"",
+usadas para forjar armas poderosas.",ui\00_message\quest\q61000012.gmd,\quest\q61000012.arc,q61000012.arc,0
+0,,,"Ganhe ""Arena Coins"" nas minhas missões
+e depois volte para falar comigo.",ui\00_message\quest\q61000012.gmd,\quest\q61000012.arc,q61000012.arc,1
+0,,,"As armas da arena exigem ""Arena Coins"".
+Você pode aprimorá-las várias vezes.
+Elas ficam mais fortes a cada melhoria.",ui\00_message\quest\q61000012.gmd,\quest\q61000012.arc,q61000012.arc,2
+0,,,"Aprimore a perícia dos seus peões para
+reduzir o custo de futuras melhorias.
+Agora vamos forjar sua primeira arma.",ui\00_message\quest\q61000012.gmd,\quest\q61000012.arc,q61000012.arc,3
+0,,,"Parabéns, Arisen.
+
+Você concluiu sua primeira missão na arena.",ui\00_message\quest\q61000012.gmd,\quest\q61000012.arc,q61000012.arc,4
+0,,,"Desafie a arena para ganhar mais moedas
+
+e forjar armas que ficam cada vez mais fortes.
+
+Isso é só o começo.",ui\00_message\quest\q61000012.gmd,\quest\q61000012.arc,q61000012.arc,5
