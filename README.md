@@ -6,12 +6,14 @@ This is a data repository used to build translation patches for **Dragon's Dogma
 
 ## 🇧🇷 Português do Brasil híbrido (PT-BR + EN)
 
-A versão híbrida 1.0.0 foi criada a partir de **duas traduções existentes do projeto comunitário DDON-translation**, ambas no commit `a4bdeec8`.
+A versão híbrida combina **duas traduções existentes do projeto comunitário DDON-translation**, ambas no commit `a4bdeec8`.
 
 - **Tradução em português do Brasil (PT-BR)** — base dos diálogos, descrições, missões e interface. [CSV PT-BR usado como base](https://github.com/Sapphiratelaemara/DDON-translation/blob/a4bdeec88c2f9045a4bbd73d3bb6882c09dac4cd/Portuguese%20%28Brazil%29/gmd.csv)
 - **Tradução em inglês (EN)** — fonte dos nomes selecionados de locais, NPCs, monstros, itens, equipamentos e habilidades. [CSV EN usado como referência](https://github.com/Sapphiratelaemara/DDON-translation/blob/a4bdeec88c2f9045a4bbd73d3bb6882c09dac4cd/gmd.csv)
 
 Créditos pelas duas traduções originais aos colaboradores do [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation).
+
+A **v2.0.0** revisa referências a nomes em inglês, traduz ou revisa 29.951 registros de texto com apoio das fontes em inglês e japonês e ajusta as quebras de linha em 5.832 registros. O CSV passou por validação estrutural e foi aplicado em jogo no LegacyDDON.
 
 No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole o endereço abaixo e aguarde **Translation applied successfully**.
 
@@ -19,7 +21,11 @@ No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e cliq
 https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/heads/main/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
 ```
 
-SHA-256 da versão 1.0.0 — `57e548164d00f211eaccf87e4799f6332e61410343a469111909f0bd01b4fe4f`.
+SHA-256 da v2.0.0 — `a6c30e98b683d6fddc2cbee0d0e69bd8fc071e80a48b05f0771cc59697837b63`.
+
+**Pendências conhecidas da v2.0.0** — a missão **To the Arena!** e as missões `[LGC]` do Quadro de Missões Especiais ainda aparecem em inglês. O prefixo `LV.` do personagem pode sumir no HUD, e alguns textos de tutoriais e descrições de itens aparecem comprimidos na horizontal.
+
+A v1.0.0 continua disponível para instalação. SHA-256 — `57e548164d00f211eaccf87e4799f6332e61410343a469111909f0bd01b4fe4f`. [CSV da v1.0.0](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v1.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv)
 
 ## 📋 Summary
 
