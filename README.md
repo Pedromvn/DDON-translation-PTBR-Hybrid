@@ -13,25 +13,29 @@ A versão híbrida combina **duas traduções existentes do projeto comunitário
 
 Créditos pelas duas traduções originais aos colaboradores do [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation).
 
-### Versão 3.0.0 — prévia usável
+### Versão 3.1.0 — prévia usável
 
-A **v3.0.0** incorpora o lote 038 da revisão de ortografia, clareza e legibilidade: **6.952 diferenças** em relação à v2.0.1. Conserva os nomes em inglês da versão híbrida e os cinco títulos decorativos com letras simples já aceitos em jogo. Corrige textos de habilidades, tutoriais, conquistas, objetivos e diálogos, incluindo sequências em que o português estava associado à fala errada.
+A **v3.1.0** reúne os ajustes até o lote 062: **12.079 diferenças** em relação à v2.0.1 e **5.133 campos atualizados** desde a v3.0.0. Melhora ortografia, concordância, pontuação e clareza de habilidades, efeitos, itens, missões e diálogos, comparando o português com o original japonês e os demais idiomas disponíveis. Corrige também erros de sentido repetidos em outras traduções.
 
-**A revisão integral continua em andamento e o teste final em jogo está pendente.** Esta publicação é uma prévia usável, com 110 testes automatizados aprovados e 132.213 registros preservados. Não equivale a uma tradução nova 100% revisada. As amostras iniciais foram testadas; os ajustes posteriores aguardam a rodada final conjunta.
+Preserva os nomes ingleses da versão híbrida, as fontes originais e os cinco títulos decorativos com letras simples já aceitos em jogo. A revisão textual das descrições de itens e da missão de retorno a Phindym foi concluída, incluindo os textos ingleses mantidos no escopo híbrido.
 
-Cobertura em 13/11/2026: **7.154 de 84.709 registros da fila linguística provisória (8,4%)** têm decisão vigente. Incluindo catálogos protegidos, vazios e textos técnicos classificados, **41,3% dos 132.213 registros** estão tratados. O denominador linguístico ainda inclui conteúdo a classificar. Esses percentuais medem esta revisão, não a quantidade de tradução já existente.
+**A revisão integral continua em andamento e o teste final em jogo está pendente.** Esta é uma prévia usável com **119 testes automatizados aprovados** e os **132.213 registros preservados**. Os testes verificam estrutura, nomes, controles e limites estimados; a rodada final em jogo ainda avaliará a apresentação real dos novos lotes.
 
-No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole a URL fixa da versão e aguarde **Translation applied successfully**.
+Cobertura em 14/11/2026: **12.787 de 84.709 campos da fila linguística provisória (15,1%)** têm decisão vigente. Incluindo catálogos protegidos, vazios e textos técnicos classificados, **45,6% dos 132.213 registros** estão tratados. Esses percentuais medem a revisão atual, não a quantidade de tradução já existente.
+
+No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole a URL fixa e aguarde **Translation applied successfully**.
 
 ```text
-https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
+https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.1.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
 ```
 
-SHA-256 da v3.0.0 — `148feb8e0e5dbcb77d991400ac20f17bfbc1e00312555df647a7a80d87441e20`.
+SHA-256 da v3.1.0 — `1cc3a9d746e0fd2122dad7717a730621308c06ebaccaeea3626f953cb8d75acb`.
 
-[Release v3.0.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.0.0) · [Manifesto da versão](Portuguese%20%28Brazil%29%20-%20Hybrid/versao.json).
+[Release v3.1.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.1.0) · [Manifesto da versão](Portuguese%20%28Brazil%29%20-%20Hybrid/versao.json).
 
 ### Versões anteriores
+
+A [v3.0.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.0.0) permanece disponível como snapshot do lote 038. A tag não é alterada pelos lotes seguintes.
 
 A **v2.0.1**, aprovada em jogo, continua disponível pela tag fixa abaixo. Ela inclui **Rumo à Arena!**, 12 missões `[LGC]`, o prefixo `LV.` no HUD e ajustes no tutorial **Obtendo Manobras de Combate** e nas pedras de refino. A revisão ampliada anterior traduziu ou revisou 29.951 registros e ajustou quebras em 5.832; esses números são de outra etapa e não entram no percentual da revisão atual.
 
@@ -174,7 +178,7 @@ Fixes and improvements by knowledgeable people would be very welcome!)
 |----------|--------|-----------|
 | 🇺🇸 English | 🔄 WIP | `gmd.csv` |
 | 🇧🇷 Portuguese (Brazil) | 🔄 WIP | `Portuguese (Brazil)/gmd.csv` |
-| 🇧🇷 Portuguese (Brazil) Hybrid | 3.0.0 — preview | `Portuguese (Brazil) - Hybrid/gmd.csv` |
+| 🇧🇷 Portuguese (Brazil) Hybrid | 3.1.0 — preview | `Portuguese (Brazil) - Hybrid/gmd.csv` |
 | 🇪🇸 Spanish | 🔄 WIP | `Spanish/gmd.csv` |
 | 🇨🇳 Simplified Chinese | 🔄 WIP | `Simplified Chinese/` |
 | 🇹🇼 Traditional Chinese | 🔄 WIP | `Traditional Chinese/gmd.csv` |
