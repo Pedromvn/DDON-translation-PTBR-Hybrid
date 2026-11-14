@@ -13,15 +13,27 @@ A versão híbrida combina **duas traduções existentes do projeto comunitário
 
 Créditos pelas duas traduções originais aos colaboradores do [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation).
 
-A revisão ampliada traduz ou revisa 29.951 registros com apoio das fontes em inglês e japonês e ajusta as quebras de linha em 5.832 registros. A versão estável **v2.0.1**, aprovada em jogo, inclui a tradução de **Rumo à Arena!** e de 12 missões `[LGC]` do Quadro de Missões Especiais. Ela também recupera o prefixo `LV.` no HUD e melhora a leitura do tutorial **Obtendo Manobras de Combate** e das descrições das pedras de refino.
+### Versão 3.0.0 — prévia usável
 
-No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole o endereço abaixo e aguarde **Translation applied successfully**.
+A **v3.0.0** incorpora o lote 038 da revisão de ortografia, clareza e legibilidade: **6.952 diferenças** em relação à v2.0.1. Conserva os nomes em inglês da versão híbrida e os cinco títulos decorativos com letras simples já aceitos em jogo. Corrige textos de habilidades, tutoriais, conquistas, objetivos e diálogos, incluindo sequências em que o português estava associado à fala errada.
+
+**A revisão integral continua em andamento e o teste final em jogo está pendente.** Esta publicação é uma prévia usável, com 110 testes automatizados aprovados e 132.213 registros preservados. Não equivale a uma tradução nova 100% revisada. As amostras iniciais foram testadas; os ajustes posteriores aguardam a rodada final conjunta.
+
+Cobertura em 13/11/2026: **7.154 de 84.709 registros da fila linguística provisória (8,4%)** têm decisão vigente. Incluindo catálogos protegidos, vazios e textos técnicos classificados, **41,3% dos 132.213 registros** estão tratados. O denominador linguístico ainda inclui conteúdo a classificar. Esses percentuais medem esta revisão, não a quantidade de tradução já existente.
+
+No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole a URL fixa da versão e aguarde **Translation applied successfully**.
 
 ```text
-https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/heads/main/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
+https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
 ```
 
-SHA-256 da v2.0.1 — `e3b93d1623770bbea74d5daa3c2c2ff181ea0d64cdbfc73f7c973924ec57b727`.
+SHA-256 da v3.0.0 — `148feb8e0e5dbcb77d991400ac20f17bfbc1e00312555df647a7a80d87441e20`.
+
+[Release v3.0.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.0.0) · [Manifesto da versão](Portuguese%20%28Brazil%29%20-%20Hybrid/versao.json).
+
+### Versões anteriores
+
+A **v2.0.1**, aprovada em jogo, continua disponível pela tag fixa abaixo. Ela inclui **Rumo à Arena!**, 12 missões `[LGC]`, o prefixo `LV.` no HUD e ajustes no tutorial **Obtendo Manobras de Combate** e nas pedras de refino. A revisão ampliada anterior traduziu ou revisou 29.951 registros e ajustou quebras em 5.832; esses números são de outra etapa e não entram no percentual da revisão atual.
 
 [CSV da v2.0.1](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v2.0.1/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv) · [CSV da v2.0.0](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v2.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv) · [CSV da v1.0.0](https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v1.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv)
 
@@ -162,7 +174,7 @@ Fixes and improvements by knowledgeable people would be very welcome!)
 |----------|--------|-----------|
 | 🇺🇸 English | 🔄 WIP | `gmd.csv` |
 | 🇧🇷 Portuguese (Brazil) | 🔄 WIP | `Portuguese (Brazil)/gmd.csv` |
-| 🇧🇷 Portuguese (Brazil) Hybrid | 1.0.0 | `Portuguese (Brazil) - Hybrid/gmd.csv` |
+| 🇧🇷 Portuguese (Brazil) Hybrid | 3.0.0 — preview | `Portuguese (Brazil) - Hybrid/gmd.csv` |
 | 🇪🇸 Spanish | 🔄 WIP | `Spanish/gmd.csv` |
 | 🇨🇳 Simplified Chinese | 🔄 WIP | `Simplified Chinese/` |
 | 🇹🇼 Traditional Chinese | 🔄 WIP | `Traditional Chinese/gmd.csv` |

@@ -1,0 +1,20 @@
+{
+  "versao": "3.0.0",
+  "estado": "prévia usável; revisão linguística em andamento; teste final pendente",
+  "data": "2026-11-13",
+  "lote_incluido": "038",
+  "csv_sha256": "148feb8e0e5dbcb77d991400ac20f17bfbc1e00312555df647a7a80d87441e20",
+  "registros": 132213,
+  "diferencas_vs_v2_0_1": 6952,
+  "testes_automatizados": 110,
+  "catalogos_protegidos": 28070,
+  "titulos_compativeis_aceitos": 5,
+  "decisoes_linguisticas_vigentes": 7154,
+  "fila_linguistica_provisoria": 84709,
+  "percentual_linguistico": 8.445383607408894,
+  "percentual_classificado_incluindo_tecnicos": 41.34086663187433,
+  "limite_cobertura": "O denominador inclui textos que ainda precisam ser classificados; não representa percentual de tradução existente nem aceite visual.",
+  "custom_url": "https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.0.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv",
+  "base_v2_0_1_sha256": "e3b93d1623770bbea74d5daa3c2c2ff181ea0d64cdbfc73f7c973924ec57b727",
+  "checkpoint_local": "fc881f4"
+}
