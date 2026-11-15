@@ -1,0 +1,14 @@
+{
+  "base_lote_095_sha256": "2288a646c2f42dc96a67dcbd2f5330450c7ed6aa22ad6ec1424fd9dfe42fc69d",
+  "piloto_sha256": "52480dce8b750933eac2f5608f5068725bb5d88683fecb44086bf16613f0498c",
+  "registros": 132213,
+  "novas_correcoes": 4,
+  "alterados_vs_v2_0_1": 18025,
+  "por_modo": {
+    "contexto": 4
+  },
+  "decisoes_sha256": "9ac73e0cc4c0edd0c7a6a0e81f8f8872510cfba6ab0be59c85fc945d4c4ddf30",
+  "excecoes_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+  "teste_em_jogo": "teste final conjunto, conforme pedido de Pedro",
+  "revisao_integral": "em andamento"
+}

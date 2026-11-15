@@ -13,27 +13,27 @@ A versão híbrida combina **duas traduções existentes do projeto comunitário
 
 Créditos pelas duas traduções originais aos colaboradores do [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation).
 
-### Versão 3.1.0 — prévia usável
+### Versão 3.2.0 — mains revisadas
 
-A **v3.1.0** reúne os ajustes até o lote 062: **12.079 diferenças** em relação à v2.0.1 e **5.133 campos atualizados** desde a v3.0.0. Melhora ortografia, concordância, pontuação e clareza de habilidades, efeitos, itens, missões e diálogos, comparando o português com o original japonês e os demais idiomas disponíveis. Corrige também erros de sentido repetidos em outras traduções.
+A **v3.2.0** conclui a revisão textual das **86 mains** do escopo: diálogos, títulos, descrições, objetivos, históricos e pistas. Os **7.925 campos** estão classificados, com **zero pendências**, e os 86 pares de títulos são consistentes. O pacote reúne os ajustes até o lote 096: **18.025 diferenças** ante a v2.0.1 e **6.134 campos atualizados** desde a v3.1.0.
 
-Preserva os nomes ingleses da versão híbrida, as fontes originais e os cinco títulos decorativos com letras simples já aceitos em jogo. A revisão textual das descrições de itens e da missão de retorno a Phindym foi concluída, incluindo os textos ingleses mantidos no escopo híbrido.
+Preserva os nomes ingleses escolhidos da versão híbrida, as fontes originais e os cinco títulos decorativos com letras simples aceitos em jogo. **146 testes automatizados aprovados**, com os **132.213 registros preservados**. A revisão global continua em **25.0%** da fila provisória; esse número mede a revisão contextual, não a quantidade já traduzida. **O teste visual final em jogo está pendente**, incluindo Alan e os novos lotes.
 
-**A revisão integral continua em andamento e o teste final em jogo está pendente.** Esta é uma prévia usável com **119 testes automatizados aprovados** e os **132.213 registros preservados**. Os testes verificam estrutura, nomes, controles e limites estimados; a rodada final em jogo ainda avaliará a apresentação real dos novos lotes.
-
-Cobertura em 14/11/2026: **12.787 de 84.709 campos da fila linguística provisória (15,1%)** têm decisão vigente. Incluindo catálogos protegidos, vazios e textos técnicos classificados, **45,6% dos 132.213 registros** estão tratados. Esses percentuais medem a revisão atual, não a quantidade de tradução já existente.
-
-No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL** e clique em **Update**. Cole a URL fixa e aguarde **Translation applied successfully**.
+No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL**, clique em **Update** e cole:
 
 ```text
-https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.1.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
+https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.2.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
 ```
 
-SHA-256 da v3.1.0 — `1cc3a9d746e0fd2122dad7717a730621308c06ebaccaeea3626f953cb8d75acb`.
+Aguarde **Translation applied successfully** e inicie o jogo. Esta URL é fixa na versão 3.2.0 e independe do servidor local.
 
-[Release v3.1.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.1.0) · [Manifesto da versão](Portuguese%20%28Brazil%29%20-%20Hybrid/versao.json).
+SHA-256: `52480dce8b750933eac2f5608f5068725bb5d88683fecb44086bf16613f0498c`.
+
+[Release v3.2.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.2.0) · [Manifesto](Portuguese%20%28Brazil%29%20-%20Hybrid/versao.json) · [Escopo e validação](Portuguese%20%28Brazil%29%20-%20Hybrid/revisao-3.2/REVISAO_3.2.md).
 
 ### Versões anteriores
+
+A [v3.1.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.1.0) permanece fixa no lote 062, com 119 testes e 15,1% de cobertura contextual naquela publicação.
 
 A [v3.0.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.0.0) permanece disponível como snapshot do lote 038. A tag não é alterada pelos lotes seguintes.
 

@@ -1,0 +1,1231 @@
+{
+  "missoes": [
+    {
+      "codigo": "q00000001",
+      "id": 1,
+      "enum_fonte": "ResolutionsAndOmens",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "覚悟と兆し",
+      "campos": 78,
+      "estados": {
+        "correcao_vigente": 50,
+        "literal_técnico_preservado": 1,
+        "mantido_com_revisao_vigente": 27
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000002",
+      "id": 2,
+      "enum_fonte": "TheSlumberingGod",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "横たわる神",
+      "campos": 107,
+      "estados": {
+        "correcao_vigente": 97,
+        "mantido_com_revisao_vigente": 10
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000003",
+      "id": 3,
+      "enum_fonte": "EnvoyOfReconcilliation",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "和解の使者",
+      "campos": 107,
+      "estados": {
+        "correcao_vigente": 90,
+        "mantido_com_revisao_vigente": 17
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000004",
+      "id": 4,
+      "enum_fonte": "SolidersOfTheRift",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "異界の戦士",
+      "campos": 63,
+      "estados": {
+        "correcao_vigente": 59,
+        "mantido_com_revisao_vigente": 4
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000026",
+      "id": 26,
+      "enum_fonte": "AServantsPledge",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "しもべの契り",
+      "campos": 53,
+      "estados": {
+        "correcao_vigente": 50,
+        "mantido_com_revisao_vigente": 3
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000025",
+      "id": 25,
+      "enum_fonte": "TheCrimsonCrystal",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "紅の結晶",
+      "campos": 65,
+      "estados": {
+        "correcao_vigente": 60,
+        "mantido_com_revisao_vigente": 5
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000005",
+      "id": 5,
+      "enum_fonte": "TheDullGreyArk",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "鈍色のアーク",
+      "campos": 40,
+      "estados": {
+        "correcao_vigente": 35,
+        "mantido_com_revisao_vigente": 5
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000006",
+      "id": 6,
+      "enum_fonte": "TheGirlInTheForest",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "森の中の少女",
+      "campos": 60,
+      "estados": {
+        "correcao_vigente": 53,
+        "mantido_com_revisao_vigente": 7
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000027",
+      "id": 27,
+      "enum_fonte": "TheGoblinKing",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "ゴブリンの王",
+      "campos": 62,
+      "estados": {
+        "correcao_vigente": 59,
+        "mantido_com_revisao_vigente": 3
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000007",
+      "id": 7,
+      "enum_fonte": "TheHouseOfSteam",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "湯煙の館",
+      "campos": 51,
+      "estados": {
+        "correcao_vigente": 44,
+        "mantido_com_revisao_vigente": 7
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000009",
+      "id": 9,
+      "enum_fonte": "TheAssailedFort",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "狙われた砦",
+      "campos": 48,
+      "estados": {
+        "correcao_vigente": 42,
+        "mantido_com_revisao_vigente": 6
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000010",
+      "id": 10,
+      "enum_fonte": "TheCastleOfDusk",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "黄昏の城",
+      "campos": 95,
+      "estados": {
+        "correcao_vigente": 89,
+        "mantido_com_revisao_vigente": 6
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000011",
+      "id": 11,
+      "enum_fonte": "TheGodsAwakening",
+      "temporada_fonte": "1.0",
+      "titulo_jp": "神の目覚め",
+      "campos": 22,
+      "estados": {
+        "correcao_vigente": 20,
+        "mantido_com_revisao_vigente": 2
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000012",
+      "id": 12,
+      "enum_fonte": "TheGirlCladInDarkness",
+      "temporada_fonte": "1.1",
+      "titulo_jp": "闇を纏う娘",
+      "campos": 99,
+      "estados": {
+        "correcao_vigente": 77,
+        "mantido_com_revisao_vigente": 22
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000013",
+      "id": 13,
+      "enum_fonte": "TheStolenHeart",
+      "temporada_fonte": "1.1",
+      "titulo_jp": "奪われた心",
+      "campos": 114,
+      "estados": {
+        "correcao_vigente": 80,
+        "mantido_com_revisao_vigente": 34
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000014",
+      "id": 14,
+      "enum_fonte": "TheRoarsOfAThousand",
+      "temporada_fonte": "1.1",
+      "titulo_jp": "千の咆哮",
+      "campos": 98,
+      "estados": {
+        "correcao_vigente": 79,
+        "mantido_com_revisao_vigente": 19
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000015",
+      "id": 15,
+      "enum_fonte": "ReturnToYore",
+      "temporada_fonte": "1.1",
+      "titulo_jp": "いにしえに帰る",
+      "campos": 91,
+      "estados": {
+        "correcao_vigente": 54,
+        "mantido_com_revisao_vigente": 37
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000016",
+      "id": 16,
+      "enum_fonte": "AFriendlyVisit",
+      "temporada_fonte": "1.1",
+      "titulo_jp": "友の来訪",
+      "campos": 118,
+      "estados": {
+        "correcao_vigente": 85,
+        "mantido_com_revisao_vigente": 33
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000017",
+      "id": 17,
+      "enum_fonte": "TheCourseOfLife",
+      "temporada_fonte": "1.1",
+      "titulo_jp": "命の行方",
+      "campos": 20,
+      "estados": {
+        "correcao_vigente": 14,
+        "mantido_com_revisao_vigente": 6
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000028",
+      "id": 28,
+      "enum_fonte": "ABriefRespite",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "束の間の休息",
+      "campos": 65,
+      "estados": {
+        "correcao_vigente": 42,
+        "mantido_com_revisao_vigente": 23
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000018",
+      "id": 18,
+      "enum_fonte": "TheArkOnceMore",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "アーク再び",
+      "campos": 92,
+      "estados": {
+        "correcao_vigente": 63,
+        "mantido_com_revisao_vigente": 29
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000019",
+      "id": 19,
+      "enum_fonte": "ThinkingOfAFriend",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "友を思う",
+      "campos": 74,
+      "estados": {
+        "correcao_vigente": 52,
+        "mantido_com_revisao_vigente": 22
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000029",
+      "id": 29,
+      "enum_fonte": "TheBeastsFinalMoments",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "ケモノの最期",
+      "campos": 89,
+      "estados": {
+        "correcao_vigente": 69,
+        "mantido_com_revisao_vigente": 20
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000020",
+      "id": 20,
+      "enum_fonte": "TheFutureEntrustedToUs",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "託された未来",
+      "campos": 108,
+      "estados": {
+        "correcao_vigente": 70,
+        "mantido_com_revisao_vigente": 38
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000021",
+      "id": 21,
+      "enum_fonte": "TheQuandaryOfSoliders",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "戦士たちの困惑",
+      "campos": 80,
+      "estados": {
+        "correcao_vigente": 62,
+        "mantido_com_revisao_vigente": 18
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000022",
+      "id": 22,
+      "enum_fonte": "TheDwellersOfTheGoldenLand",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "黄金郷の住人",
+      "campos": 136,
+      "estados": {
+        "correcao_vigente": 97,
+        "mantido_com_revisao_vigente": 39
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000023",
+      "id": 23,
+      "enum_fonte": "TheGoldenKey",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "黄金の鍵",
+      "campos": 94,
+      "estados": {
+        "correcao_vigente": 73,
+        "mantido_com_revisao_vigente": 21
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000024",
+      "id": 24,
+      "enum_fonte": "TheGreatAlchemist",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "偉大なる錬金術師",
+      "campos": 76,
+      "estados": {
+        "correcao_vigente": 56,
+        "mantido_com_revisao_vigente": 20
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00000030",
+      "id": 30,
+      "enum_fonte": "BeForevermoreWhiteDragon",
+      "temporada_fonte": "1.2",
+      "titulo_jp": "白竜よ永遠なれ",
+      "campos": 6,
+      "estados": {
+        "correcao_vigente": 5,
+        "mantido_com_revisao_vigente": 1
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020010",
+      "id": 20010,
+      "enum_fonte": "TheStormThatBroughtATragedy",
+      "temporada_fonte": "2.0",
+      "titulo_jp": "嵐が運びし厄災",
+      "campos": 62,
+      "estados": {
+        "correcao_vigente": 35,
+        "mantido_com_revisao_vigente": 27
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020020",
+      "id": 20020,
+      "enum_fonte": "TheGirlWhoLostHerMemories",
+      "temporada_fonte": "2.0",
+      "titulo_jp": "記憶のない娘",
+      "campos": 84,
+      "estados": {
+        "correcao_vigente": 52,
+        "mantido_com_revisao_vigente": 32
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020030",
+      "id": 20030,
+      "enum_fonte": "TheCorruptionAndTheKnights",
+      "temporada_fonte": "2.0",
+      "titulo_jp": "侵食と騎士団",
+      "campos": 99,
+      "estados": {
+        "correcao_vigente": 70,
+        "mantido_com_revisao_vigente": 29
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020040",
+      "id": 20040,
+      "enum_fonte": "ExploringTheDenOfMonsters",
+      "temporada_fonte": "2.0",
+      "titulo_jp": "魔窟探索",
+      "campos": 85,
+      "estados": {
+        "correcao_vigente": 59,
+        "mantido_com_revisao_vigente": 26
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020050",
+      "id": 20050,
+      "enum_fonte": "EliminateTheCorrosionInfestation",
+      "temporada_fonte": "2.0",
+      "titulo_jp": "侵食魔掃討作戦",
+      "campos": 57,
+      "estados": {
+        "correcao_vigente": 51,
+        "mantido_com_revisao_vigente": 6
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020060",
+      "id": 20060,
+      "enum_fonte": "TheManFromAnotherLand",
+      "temporada_fonte": "2.0",
+      "titulo_jp": "大陸から来た男",
+      "campos": 54,
+      "estados": {
+        "correcao_vigente": 39,
+        "mantido_com_revisao_vigente": 15
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020070",
+      "id": 20070,
+      "enum_fonte": "TheFateOfLestania",
+      "temporada_fonte": "2.0",
+      "titulo_jp": "レスタニアの命運",
+      "campos": 66,
+      "estados": {
+        "correcao_vigente": 52,
+        "mantido_com_revisao_vigente": 14
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020080",
+      "id": 20080,
+      "enum_fonte": "AFreshIncident",
+      "temporada_fonte": "2.1",
+      "titulo_jp": "あらたな異変",
+      "campos": 26,
+      "estados": {
+        "correcao_vigente": 17,
+        "mantido_com_revisao_vigente": 9
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020090",
+      "id": 20090,
+      "enum_fonte": "Negotiations",
+      "temporada_fonte": "2.1",
+      "titulo_jp": "交渉",
+      "campos": 56,
+      "estados": {
+        "correcao_vigente": 45,
+        "mantido_com_revisao_vigente": 11
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020100",
+      "id": 20100,
+      "enum_fonte": "LeogsIllness",
+      "temporada_fonte": "2.1",
+      "titulo_jp": "ロイグの病",
+      "campos": 71,
+      "estados": {
+        "correcao_vigente": 51,
+        "mantido_com_revisao_vigente": 20
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020110",
+      "id": 20110,
+      "enum_fonte": "AStrangeLandsLight",
+      "temporada_fonte": "2.1",
+      "titulo_jp": "異郷の光",
+      "campos": 66,
+      "estados": {
+        "correcao_vigente": 46,
+        "mantido_com_revisao_vigente": 20
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020120",
+      "id": 20120,
+      "enum_fonte": "TheLoneArisen",
+      "temporada_fonte": "2.1",
+      "titulo_jp": "孤高の覚者",
+      "campos": 75,
+      "estados": {
+        "correcao_vigente": 56,
+        "mantido_com_revisao_vigente": 19
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020130",
+      "id": 20130,
+      "enum_fonte": "StrayingPower",
+      "temporada_fonte": "2.1",
+      "titulo_jp": "彷徨えし力",
+      "campos": 72,
+      "estados": {
+        "correcao_vigente": 56,
+        "mantido_com_revisao_vigente": 16
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020140",
+      "id": 20140,
+      "enum_fonte": "TheEntrustedOne",
+      "temporada_fonte": "2.1",
+      "titulo_jp": "託されし者",
+      "campos": 101,
+      "estados": {
+        "correcao_vigente": 65,
+        "mantido_com_revisao_vigente": 36
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020150",
+      "id": 20150,
+      "enum_fonte": "ANewContinent",
+      "temporada_fonte": "2.2",
+      "titulo_jp": "新大陸",
+      "campos": 62,
+      "estados": {
+        "correcao_vigente": 46,
+        "mantido_com_revisao_vigente": 16
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020160",
+      "id": 20160,
+      "enum_fonte": "TheLostHometown",
+      "temporada_fonte": "2.2",
+      "titulo_jp": "失われた故郷",
+      "campos": 56,
+      "estados": {
+        "correcao_vigente": 37,
+        "mantido_com_revisao_vigente": 19
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020170",
+      "id": 20170,
+      "enum_fonte": "TheVillageOfSoliders",
+      "temporada_fonte": "2.2",
+      "titulo_jp": "戦士の集落",
+      "campos": 101,
+      "estados": {
+        "correcao_vigente": 84,
+        "mantido_com_revisao_vigente": 17
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020180",
+      "id": 20180,
+      "enum_fonte": "Homecoming",
+      "temporada_fonte": "2.2",
+      "titulo_jp": "帰郷",
+      "campos": 91,
+      "estados": {
+        "correcao_vigente": 70,
+        "mantido_com_revisao_vigente": 21
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020190",
+      "id": 20190,
+      "enum_fonte": "GallantFootsteps",
+      "temporada_fonte": "2.2",
+      "titulo_jp": "勇敢なる足跡",
+      "campos": 85,
+      "estados": {
+        "correcao_vigente": 65,
+        "mantido_com_revisao_vigente": 20
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020200",
+      "id": 20200,
+      "enum_fonte": "TheDarknessOfTheHeart",
+      "temporada_fonte": "2.2",
+      "titulo_jp": "心の闇",
+      "campos": 96,
+      "estados": {
+        "correcao_vigente": 78,
+        "mantido_com_revisao_vigente": 18
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020210",
+      "id": 20210,
+      "enum_fonte": "TheSpiritLand",
+      "temporada_fonte": "2.3",
+      "titulo_jp": "精霊の地",
+      "campos": 72,
+      "estados": {
+        "correcao_vigente": 61,
+        "mantido_com_revisao_vigente": 11
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020220",
+      "id": 20220,
+      "enum_fonte": "WithinTheTree",
+      "temporada_fonte": "2.3",
+      "titulo_jp": "侵された樹内",
+      "campos": 66,
+      "estados": {
+        "correcao_vigente": 52,
+        "mantido_com_revisao_vigente": 14
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020230",
+      "id": 20230,
+      "enum_fonte": "RestorationRequirements",
+      "temporada_fonte": "2.3",
+      "titulo_jp": "復活の条件",
+      "campos": 104,
+      "estados": {
+        "correcao_vigente": 84,
+        "mantido_com_revisao_vigente": 20
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020240",
+      "id": 20240,
+      "enum_fonte": "ReasonAndBonds",
+      "temporada_fonte": "2.3",
+      "titulo_jp": "理と絆",
+      "campos": 87,
+      "estados": {
+        "correcao_vigente": 74,
+        "mantido_com_revisao_vigente": 13
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00020250",
+      "id": 20250,
+      "enum_fonte": "TheNewGeneration",
+      "temporada_fonte": "2.3",
+      "titulo_jp": "新しい世代",
+      "campos": 6,
+      "estados": {
+        "correcao_vigente": 4,
+        "mantido_com_revisao_vigente": 2
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030010",
+      "id": 30010,
+      "enum_fonte": "TheLandOfDespair",
+      "temporada_fonte": "3.0",
+      "titulo_jp": "絶望の大陸",
+      "campos": 113,
+      "estados": {
+        "correcao_vigente": 84,
+        "mantido_com_revisao_vigente": 29
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030020",
+      "id": 30020,
+      "enum_fonte": "InSearchOfHope",
+      "temporada_fonte": "3.0",
+      "titulo_jp": "希望を求めて",
+      "campos": 88,
+      "estados": {
+        "correcao_vigente": 64,
+        "mantido_com_revisao_vigente": 24
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030030",
+      "id": 30030,
+      "enum_fonte": "MeirovaTheVeteranGeneral",
+      "temporada_fonte": "3.0",
+      "titulo_jp": "老将メイロワ",
+      "campos": 103,
+      "estados": {
+        "correcao_vigente": 69,
+        "mantido_com_revisao_vigente": 34
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030040",
+      "id": 30040,
+      "enum_fonte": "ThePrincesWhereabouts",
+      "temporada_fonte": "3.0",
+      "titulo_jp": "王子の行方",
+      "campos": 97,
+      "estados": {
+        "correcao_vigente": 67,
+        "mantido_com_revisao_vigente": 30
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030050",
+      "id": 30050,
+      "enum_fonte": "SurvivorsVillage",
+      "temporada_fonte": "3.0",
+      "titulo_jp": "生き残りし村",
+      "campos": 97,
+      "estados": {
+        "correcao_vigente": 63,
+        "mantido_com_revisao_vigente": 34
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030060",
+      "id": 30060,
+      "enum_fonte": "TheOpposition",
+      "temporada_fonte": "3.0",
+      "titulo_jp": "相反せし者たち",
+      "campos": 82,
+      "estados": {
+        "correcao_vigente": 51,
+        "mantido_com_revisao_vigente": 31
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030070",
+      "id": 30070,
+      "enum_fonte": "PrinceNedo",
+      "temporada_fonte": "3.0",
+      "titulo_jp": "王子ネド",
+      "campos": 147,
+      "estados": {
+        "correcao_vigente": 85,
+        "mantido_com_revisao_vigente": 62
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030080",
+      "id": 30080,
+      "enum_fonte": "TheRoyalFamilySacrament",
+      "temporada_fonte": "3.1",
+      "titulo_jp": "王家の秘蹟",
+      "campos": 110,
+      "estados": {
+        "correcao_vigente": 64,
+        "mantido_com_revisao_vigente": 46
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030090",
+      "id": 30090,
+      "enum_fonte": "TheApproachingDemonArmy",
+      "temporada_fonte": "3.1",
+      "titulo_jp": "迫り来る魔軍",
+      "campos": 79,
+      "estados": {
+        "correcao_vigente": 42,
+        "mantido_com_revisao_vigente": 37
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030100",
+      "id": 30100,
+      "enum_fonte": "PortentOfDespair",
+      "temporada_fonte": "3.1",
+      "titulo_jp": "絶望の予告",
+      "campos": 143,
+      "estados": {
+        "correcao_vigente": 80,
+        "mantido_com_revisao_vigente": 63
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030110",
+      "id": 30110,
+      "enum_fonte": "DiversionaryTactics",
+      "temporada_fonte": "3.1",
+      "titulo_jp": "陽動作戦",
+      "campos": 105,
+      "estados": {
+        "correcao_vigente": 65,
+        "mantido_com_revisao_vigente": 40
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030120",
+      "id": 30120,
+      "enum_fonte": "TheSecretEntrance",
+      "temporada_fonte": "3.1",
+      "titulo_jp": "秘密の入り口",
+      "campos": 76,
+      "estados": {
+        "correcao_vigente": 43,
+        "mantido_com_revisao_vigente": 33
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030125",
+      "id": 30125,
+      "enum_fonte": "ADesperateInfiltration",
+      "temporada_fonte": "3.1",
+      "titulo_jp": "決死の潜入",
+      "campos": 131,
+      "estados": {
+        "correcao_vigente": 81,
+        "mantido_com_revisao_vigente": 50
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030130",
+      "id": 30130,
+      "enum_fonte": "TheBattleOfLookoutCastle",
+      "temporada_fonte": "3.1",
+      "titulo_jp": "展望城の戦い",
+      "campos": 142,
+      "estados": {
+        "correcao_vigente": 77,
+        "mantido_com_revisao_vigente": 65
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030140",
+      "id": 30140,
+      "enum_fonte": "TheRoadToTheRoyalCapital",
+      "temporada_fonte": "3.2",
+      "titulo_jp": "王都への路",
+      "campos": 138,
+      "estados": {
+        "correcao_vigente": 83,
+        "mantido_com_revisao_vigente": 55
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030150",
+      "id": 30150,
+      "enum_fonte": "RallyTheTroops",
+      "temporada_fonte": "3.2",
+      "titulo_jp": "再結集",
+      "campos": 131,
+      "estados": {
+        "correcao_vigente": 65,
+        "mantido_com_revisao_vigente": 66
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030160",
+      "id": 30160,
+      "enum_fonte": "AttackOnTheRoyalCapital",
+      "temporada_fonte": "3.2",
+      "titulo_jp": "王都進攻",
+      "campos": 95,
+      "estados": {
+        "correcao_vigente": 63,
+        "mantido_com_revisao_vigente": 32
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030170",
+      "id": 30170,
+      "enum_fonte": "AnOmenOfDestruction",
+      "temporada_fonte": "3.2",
+      "titulo_jp": "滅びの予兆",
+      "campos": 81,
+      "estados": {
+        "correcao_vigente": 44,
+        "mantido_com_revisao_vigente": 37
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030180",
+      "id": 30180,
+      "enum_fonte": "ABriefDragonForce",
+      "temporada_fonte": "3.2",
+      "titulo_jp": "ひとときの竜力",
+      "campos": 121,
+      "estados": {
+        "correcao_vigente": 67,
+        "mantido_com_revisao_vigente": 54
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030190",
+      "id": 30190,
+      "enum_fonte": "ThePlightOfLookoutCastle",
+      "temporada_fonte": "3.2",
+      "titulo_jp": "展望城の窮地",
+      "campos": 102,
+      "estados": {
+        "correcao_vigente": 47,
+        "mantido_com_revisao_vigente": 55
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030200",
+      "id": 30200,
+      "enum_fonte": "TheFinalBattleOfTheRoyalCapital",
+      "temporada_fonte": "3.2",
+      "titulo_jp": "王都の決戦",
+      "campos": 135,
+      "estados": {
+        "correcao_vigente": 53,
+        "mantido_com_revisao_vigente": 82
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030210",
+      "id": 30210,
+      "enum_fonte": "TheMissingPrince",
+      "temporada_fonte": "3.3",
+      "titulo_jp": "消えた王子",
+      "campos": 105,
+      "estados": {
+        "correcao_vigente": 52,
+        "mantido_com_revisao_vigente": 53
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030220",
+      "id": 30220,
+      "enum_fonte": "NedosTrail",
+      "temporada_fonte": "3.3",
+      "titulo_jp": "ネドの足取り",
+      "campos": 153,
+      "estados": {
+        "correcao_vigente": 98,
+        "mantido_com_revisao_vigente": 55
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030230",
+      "id": 30230,
+      "enum_fonte": "TheRoyalFamilyMausoleum",
+      "temporada_fonte": "3.3",
+      "titulo_jp": "王家の墓",
+      "campos": 105,
+      "estados": {
+        "correcao_vigente": 60,
+        "mantido_com_revisao_vigente": 45
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030240",
+      "id": 30240,
+      "enum_fonte": "TheDreadfulPassage",
+      "temporada_fonte": "3.3",
+      "titulo_jp": "恐ろしき道",
+      "campos": 77,
+      "estados": {
+        "correcao_vigente": 49,
+        "mantido_com_revisao_vigente": 28
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030250",
+      "id": 30250,
+      "enum_fonte": "TheRelicsOfTheFirstKing",
+      "temporada_fonte": "3.3",
+      "titulo_jp": "初代王の遺品",
+      "campos": 87,
+      "estados": {
+        "correcao_vigente": 51,
+        "mantido_com_revisao_vigente": 36
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030260",
+      "id": 30260,
+      "enum_fonte": "HopesBitterEnd",
+      "temporada_fonte": "3.3",
+      "titulo_jp": "望みの果て",
+      "campos": 163,
+      "estados": {
+        "correcao_vigente": 85,
+        "mantido_com_revisao_vigente": 78
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030270",
+      "id": 30270,
+      "enum_fonte": "ThoseWhoFollowTheDragon",
+      "temporada_fonte": "3.3",
+      "titulo_jp": "竜を継ぐ者",
+      "campos": 6,
+      "estados": {
+        "correcao_vigente": 4,
+        "mantido_com_revisao_vigente": 2
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030410",
+      "id": 30410,
+      "enum_fonte": "BreakdownOfReason",
+      "temporada_fonte": "3.4?",
+      "titulo_jp": "理の崩壊",
+      "campos": 257,
+      "estados": {
+        "correcao_vigente": 42,
+        "mantido_com_revisao_vigente": 215
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030420",
+      "id": 30420,
+      "enum_fonte": "SpunTogetherHope",
+      "temporada_fonte": "3.4?",
+      "titulo_jp": "紡ぎし望み",
+      "campos": 207,
+      "estados": {
+        "correcao_vigente": 124,
+        "mantido_com_revisao_vigente": 83
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030430",
+      "id": 30430,
+      "enum_fonte": "TheWhiteDragonsArisen",
+      "temporada_fonte": "3.4?",
+      "titulo_jp": "白竜の覚者",
+      "campos": 219,
+      "estados": {
+        "correcao_vigente": 161,
+        "mantido_com_revisao_vigente": 58
+      },
+      "pendentes": 0,
+      "concluida": true
+    },
+    {
+      "codigo": "q00030440",
+      "id": 30440,
+      "enum_fonte": "TheFateOfAll",
+      "temporada_fonte": "3.4?",
+      "titulo_jp": "すべての行く末",
+      "campos": 219,
+      "estados": {
+        "correcao_vigente": 139,
+        "mantido_com_revisao_vigente": 80
+      },
+      "pendentes": 0,
+      "concluida": true
+    }
+  ],
+  "total_missoes": 86,
+  "total_campos": 7925,
+  "estados": {
+    "correcao_vigente": 5297,
+    "literal_técnico_preservado": 1,
+    "mantido_com_revisao_vigente": 2627
+  },
+  "missoes_concluidas": 86,
+  "campos_com_revisao_linguistica": 7924,
+  "campos_tecnicos_justificados": 1,
+  "campos_pendentes": 0,
+  "escopo_textual_concluido": true,
+  "csv_sha256": "52480dce8b750933eac2f5608f5068725bb5d88683fecb44086bf16613f0498c",
+  "escopo_sha256": "8c21d519f086ed74fdff0f8bf44b624543e2bda986c5cad5474b8ee55364c483",
+  "campos_escopo_sha256": "43c2f80a211dfa04d2bfcda1419d115fbb2eb8307a56b0c0277671efbf603787",
+  "publicacao_alvo": "3.2.0",
+  "publicacao_autorizada_apos_revisao": true,
+  "limites": [
+    "Fechar o escopo textual não substitui os testes estruturais, de layout e de integridade antes da publicação.",
+    "O aceite visual fica reservado ao teste final conjunto; a release deve declarar esse limite.",
+    "Falas gerais de NPCs e recursos sem vínculo de missão permanecem na revisão global após a 3.2."
+  ]
+}
