@@ -13,25 +13,29 @@ A versão híbrida combina **duas traduções existentes do projeto comunitário
 
 Créditos pelas duas traduções originais aos colaboradores do [DDON-translation](https://github.com/Sapphiratelaemara/DDON-translation).
 
-### Versão 3.2.0 — mains revisadas
+### Versão 3.3.0 — mais de 50% revisados
 
-A **v3.2.0** conclui a revisão textual das **86 mains** do escopo: diálogos, títulos, descrições, objetivos, históricos e pistas. Os **7.925 campos** estão classificados, com **zero pendências**, e os 86 pares de títulos são consistentes. O pacote reúne os ajustes até o lote 096: **18.025 diferenças** ante a v2.0.1 e **6.134 campos atualizados** desde a v3.1.0.
+A versão **3.3.0** chega a **50,24% de revisão contextual** (42.558/84.709 decisões vigentes), com os lotes 097–123 e **13.551 campos atualizados desde a 3.2.0**. Este percentual mede a revisão, não a quantidade já traduzida do jogo.
 
-Preserva os nomes ingleses escolhidos da versão híbrida, as fontes originais e os cinco títulos decorativos com letras simples aceitos em jogo. **146 testes automatizados aprovados**, com os **132.213 registros preservados**. A revisão global continua em **25.0%** da fila provisória; esse número mede a revisão contextual, não a quantidade já traduzida. **O teste visual final em jogo está pendente**, incluindo Alan e os novos lotes.
+Preserva a tradução híbrida, os nomes ingleses escolhidos, as fontes e os cinco títulos decorativos com letras simples aceitos em jogo. As 86 mains continuam revisadas, com zero pendências no escopo textual e 172 títulos consistentes.
 
-No LegacyDDON Launcher, abra o menu de tradução, escolha **Custom URL**, clique em **Update** e cole:
+**174 testes automatizados aprovados**. Conferidos 132.213 registros, 28.070 campos de catálogos protegidos, controles, números, metadados, cores e limites estimados. Os lotes novos usam dois agentes com fontes JP/EN/PT e comprovação por ocorrência. Campos bloqueados pelas guardas permanecem pendentes e fora do percentual.
+
+**Teste visual final pendente**, incluindo Alan e os demais lotes. Os testes não comprovam encaixe na fonte real. A instalação Lutris não foi alterada e nenhum backup foi feito.
+
+Use no campo **Custom URL** do launcher:
 
 ```text
-https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.2.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
+https://raw.githubusercontent.com/Pedromvn/DDON-translation-PTBR-Hybrid/refs/tags/v3.3.0/Portuguese%20%28Brazil%29%20-%20Hybrid/gmd.csv
 ```
 
-Aguarde **Translation applied successfully** e inicie o jogo. Esta URL é fixa na versão 3.2.0 e independe do servidor local.
+CSV SHA-256: `fecbced7d5184259b03236a255ba9f92bfe3342aa6d302dedaab496e75413066`.
 
-SHA-256: `52480dce8b750933eac2f5608f5068725bb5d88683fecb44086bf16613f0498c`.
-
-[Release v3.2.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.2.0) · [Manifesto](Portuguese%20%28Brazil%29%20-%20Hybrid/versao.json) · [Escopo e validação](Portuguese%20%28Brazil%29%20-%20Hybrid/revisao-3.2/REVISAO_3.2.md).
+Versões anteriores preservadas nas tags originais. CSV e manifesto estão anexados. [Auditoria 3.3](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/blob/v3.3.0/Portuguese%20%28Brazil%29%20-%20Hybrid/revisao-3.3/REVISAO_3.3.md).
 
 ### Versões anteriores
+
+A [v3.2.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.2.0) permanece fixa no lote 096, com as 86 mains revisadas e 25,0% de cobertura contextual naquela publicação.
 
 A [v3.1.0](https://github.com/Pedromvn/DDON-translation-PTBR-Hybrid/releases/tag/v3.1.0) permanece fixa no lote 062, com 119 testes e 15,1% de cobertura contextual naquela publicação.
 

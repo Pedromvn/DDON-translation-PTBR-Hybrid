@@ -1,0 +1,15 @@
+{
+  "base_lote_122_sha256": "ef895ff26d5d5875e2ecf47361611c9a52f98c0a9f3c7804172ce01589a30fa1",
+  "piloto_sha256": "fecbced7d5184259b03236a255ba9f92bfe3342aa6d302dedaab496e75413066",
+  "registros": 132213,
+  "novas_correcoes": 198,
+  "mantidos": 476,
+  "decisoes_novas": 674,
+  "modelos_lidos": 782,
+  "ocorrencias_pendentes": 108,
+  "alterados_vs_v2_0_1": 31565,
+  "decisoes_sha256": "54667786b4dca2a6adddeb100ab3a1927594180af75ee1b9329a0ddea2b1ae9e",
+  "mantidos_sha256": "a270d7062a434853c933f4ad7777fc2fa18a41a192a828906dd244e488ae6e91",
+  "teste_em_jogo": "teste final conjunto pendente",
+  "metodo": "Modelos lidos em PT/JP/EN por dois agentes; cada vínculo reconstruído e validado, não leitura individual de repetições."
+}

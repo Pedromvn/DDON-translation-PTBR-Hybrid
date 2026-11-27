@@ -1,0 +1,80 @@
+{
+  "lote": "123",
+  "csv_sha256": "fecbced7d5184259b03236a255ba9f92bfe3342aa6d302dedaab496e75413066",
+  "triagem_resumo_sha256": "14a97777a3c058736dfbd9b27c64bf4d9523bd179b01d13d9f3f3ad1be1afdc0",
+  "escopo": "Somente decisões aceitas deste lote; não o restante cumulativo.",
+  "campos_aceitos_no_escopo": 674,
+  "avaliacao": "127 contextos de alerta e18 termos distintos conferidos no resumo restrito às674 decisões aceitas. Prova corresponde ao aplicador/parecer atuais. Revisão de contextos/modelos e dados da triagem, sem alegação de releitura individual das repetições ou de aceite visual.",
+  "julgamentos_gramaticais": [
+    {
+      "regra": "PT_REDUNDANCY_REPLACE_SI_MESMO",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "Para si mesmo explicita o alvo reflexivo proibido do Tell; construção portuguesa válida."
+    },
+    {
+      "regra": "PORTUGUESE_WORD_REPEAT_BEGINNING_RULE",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "Mensagens de recursos independentes; repetição entre campos não exige paráfrase."
+    },
+    {
+      "regra": "WHITESPACE_RULE",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "Valores, nomes e controles mascarados produzem os espaços artificiais."
+    },
+    {
+      "regra": "UPPERCASE_SENTENCE_START",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "Em frases com nome inicial mascarado, o verbo continua após o nome. Msgs. e Regis. são abreviaturas internas, não encerram frase antes de com/de."
+    },
+    {
+      "regra": "SPACE_BEFORE_PUNCTUATION2",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "O nome ou valor/controle que antecede a pontuação foi mascarado."
+    },
+    {
+      "regra": "GENERAL_VERB_AGREEMENT_ERRORS",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "Membros ... que pertencem ... foram convidados mantém concordância plural entre sujeito, relativo e predicado."
+    },
+    {
+      "regra": "DOUBLE_PUNCTUATION_XML",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "Nos modelos com variáveis, a máscara substitui o valor entre a abreviatura/dois-pontos e o ponto final. Nos dois contextos com――, as barras finais preservam a pausa japonesa; possível normalização de estilo posterior, sem erro de sentido ou bloqueio linguístico novo."
+    },
+    {
+      "regra": "PARENTESESE_AND_QUOTES_SPACING",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "O nome/valor/controle entre aspas ou parênteses foi mascarado; o espaço artificial não pertence à saída real."
+    },
+    {
+      "regra": "PT_WORDINESS_REPLACE_DE_ACORDO_COM_AS",
+      "decisao": "falso positivo ou sugestão opcional",
+      "motivo": "De acordo com as especificações atuais é locução válida; concisão é sugestão opcional."
+    }
+  ],
+  "ortografia": {
+    "decisao": "sem erro novo",
+    "motivo": "Tell, Craft Skills, Rank, party, buff, emote, Silver Tickets, launcher e Dungeon/dungeon são nomes ou termos ingleses preservados. Submestre, e-mail/e-mails têm grafia válida; Msgs. e Regis. são abreviaturas compreensíveis, e MEX é sigla de Missão Extrema.",
+    "termos_conferidos": [
+      "Craft",
+      "Dungeon",
+      "MEX",
+      "Msgs",
+      "Rank",
+      "Regis",
+      "Silver",
+      "Skills",
+      "Tell",
+      "Tickets",
+      "buff",
+      "dungeon",
+      "e-mail",
+      "e-mails",
+      "emote",
+      "launcher",
+      "party",
+      "submestre"
+    ]
+  },
+  "erros_bloqueantes_novos": 0
+}
